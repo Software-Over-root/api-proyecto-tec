@@ -52,5 +52,5 @@ jobs:
         with:
           app-name: 'AlertaTecnologiasEmergentes'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_D2CDB1966DA54A6097DDBE7EB0DE8F5C }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_2E111F3388844E55B1F1B512EE4AD61D }}
           package: .
